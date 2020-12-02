@@ -1,5 +1,5 @@
 # hello world
 
-## some ne stuff
+## some new stuff
 
 another new line
